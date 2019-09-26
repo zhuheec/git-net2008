@@ -1,0 +1,1 @@
+print("Hello NET2008")
